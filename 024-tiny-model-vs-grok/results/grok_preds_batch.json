@@ -1,0 +1,1202 @@
+[
+ {
+  "id": 28,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 72,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 127,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 335,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 362,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 416,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 421,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 422,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 599,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 616,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 629,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 688,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 705,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 726,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 754,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 781,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 792,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 806,
+  "gold": "Business",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 900,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 909,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 954,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 960,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 1083,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1091,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 1092,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 1114,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1148,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 1214,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1252,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1370,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 1372,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1468,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1509,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1566,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1681,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1705,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1709,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 1719,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1731,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1762,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 1764,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 1821,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1847,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 1879,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 1895,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 1940,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2012,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2023,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 2053,
+  "gold": "World",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2165,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2181,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2185,
+  "gold": "Sci/Tech",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2231,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2233,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2354,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2429,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2506,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2515,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 2538,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 2540,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2590,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2599,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2608,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2609,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2626,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 2656,
+  "gold": "World",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 2672,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2677,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2693,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2768,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2813,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2911,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 2923,
+  "gold": "Business",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 2930,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 2964,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3120,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 3163,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3165,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 3303,
+  "gold": "World",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 3319,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 3370,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 3446,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3516,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3578,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 3621,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 3664,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 3756,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3786,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3804,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 3874,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 3901,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 3982,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 3986,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 3992,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4017,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4062,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4089,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4181,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4245,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4246,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4260,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4264,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4317,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4410,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4433,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4444,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4454,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4470,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4603,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4606,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4624,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4670,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4673,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4688,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 4761,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4778,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4829,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4853,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4893,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4933,
+  "gold": "Sports",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 4934,
+  "gold": "Business",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 4938,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 4999,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5027,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5051,
+  "gold": "Business",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 5080,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5087,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5158,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5171,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5205,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5305,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5394,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5478,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5489,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5511,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5537,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5561,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 5666,
+  "gold": "Business",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 5683,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5686,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5717,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 5728,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5733,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 5798,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5896,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 5904,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 5927,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 5932,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6019,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6145,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6160,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6267,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6392,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6444,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6474,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6489,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6496,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6553,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6569,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6577,
+  "gold": "Sports",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6580,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6593,
+  "gold": "Business",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6605,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6670,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6711,
+  "gold": "Business",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6746,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6756,
+  "gold": "World",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6765,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6767,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6782,
+  "gold": "Sci/Tech",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6786,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6835,
+  "gold": "Sci/Tech",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6889,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 6894,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6908,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 6937,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 6946,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 6956,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 7128,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7143,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7155,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7189,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 7210,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 7264,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7280,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7340,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 7344,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7368,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7377,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 7443,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7467,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7475,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7498,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ },
+ {
+  "id": 7500,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7525,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7526,
+  "gold": "World",
+  "pred": "World",
+  "raw": "World"
+ },
+ {
+  "id": 7532,
+  "gold": "Sports",
+  "pred": "Sports",
+  "raw": "Sports"
+ },
+ {
+  "id": 7553,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 7556,
+  "gold": "Business",
+  "pred": "Business",
+  "raw": "Business"
+ },
+ {
+  "id": 7559,
+  "gold": "Sci/Tech",
+  "pred": "Sci/Tech",
+  "raw": "Sci/Tech"
+ }
+]

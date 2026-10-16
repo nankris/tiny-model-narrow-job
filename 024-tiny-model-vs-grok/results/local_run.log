@@ -1,0 +1,4 @@
+tfidf 0.875
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 45/290 [00:00<00:00, 445.28it/s]Loading weights:  48%|████▊     | 140/290 [00:00<00:00, 735.92it/s]Loading weights:  76%|███████▌  | 219/290 [00:00<00:00, 747.94it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 732.73it/s]
+4shot 0.29 496.16
+probe 0.89

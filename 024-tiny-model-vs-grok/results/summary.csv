@@ -1,0 +1,6 @@
+method,acc,n,calls,usd_per_1k,sec_per_item_seq,wall_s_total,parallel,in_tok_per_call,out_tok_per_call,reasoning_tok_per_call,train_s,sec_per_1k_items
+"Grok CLI, 1 call per item",0.905,200,200,3.1979005999999996,5.892750000000001,197.98,6,5075.125,184.05,182.6,,5892.750000000001
+"Grok CLI, 20 items per call",0.89,200,10,0.38758300000000007,1.8977000000000002,83.1,6,6114.1,2049.8,1961.8,,1897.7000000000003
+"SmolLM2-360M-Instruct, 4-shot (CPU)",0.29,200,0,0.0,2.4808000000000003,496.16,1,,,,,2480.8
+"SmolLM2-360M frozen + LR probe, 1K train (CPU)",0.89,200,0,0.0,0.42174999999999996,84.35,1,,,,474.5,421.74999999999994
+"TF-IDF + logistic regression, 4K train (CPU)",0.875,200,0,0.0,7.000000000000001e-05,0.014,1,,,,1.49,0.07

@@ -1,0 +1,111 @@
+{
+ "table": [
+  {
+   "method": "Grok CLI, 1 call per item",
+   "acc": 0.905,
+   "n": 200,
+   "calls": 200,
+   "usd_per_1k": 3.1979,
+   "sec_per_item_seq": 5.89275,
+   "wall_s_total": 197.98,
+   "parallel": 6,
+   "in_tok_per_call": 5075.125,
+   "out_tok_per_call": 184.05,
+   "reasoning_tok_per_call": 182.6,
+   "train_s": NaN,
+   "sec_per_1k_items": 5892.75
+  },
+  {
+   "method": "Grok CLI, 20 items per call",
+   "acc": 0.89,
+   "n": 200,
+   "calls": 10,
+   "usd_per_1k": 0.38758,
+   "sec_per_item_seq": 1.8977,
+   "wall_s_total": 83.1,
+   "parallel": 6,
+   "in_tok_per_call": 6114.1,
+   "out_tok_per_call": 2049.8,
+   "reasoning_tok_per_call": 1961.8,
+   "train_s": NaN,
+   "sec_per_1k_items": 1897.7
+  },
+  {
+   "method": "SmolLM2-360M-Instruct, 4-shot (CPU)",
+   "acc": 0.29,
+   "n": 200,
+   "calls": 0,
+   "usd_per_1k": 0.0,
+   "sec_per_item_seq": 2.4808,
+   "wall_s_total": 496.16,
+   "parallel": 1,
+   "in_tok_per_call": NaN,
+   "out_tok_per_call": NaN,
+   "reasoning_tok_per_call": NaN,
+   "train_s": NaN,
+   "sec_per_1k_items": 2480.8
+  },
+  {
+   "method": "SmolLM2-360M frozen + LR probe, 1K train (CPU)",
+   "acc": 0.89,
+   "n": 200,
+   "calls": 0,
+   "usd_per_1k": 0.0,
+   "sec_per_item_seq": 0.42175,
+   "wall_s_total": 84.35,
+   "parallel": 1,
+   "in_tok_per_call": NaN,
+   "out_tok_per_call": NaN,
+   "reasoning_tok_per_call": NaN,
+   "train_s": 474.5,
+   "sec_per_1k_items": 421.75
+  },
+  {
+   "method": "TF-IDF + logistic regression, 4K train (CPU)",
+   "acc": 0.875,
+   "n": 200,
+   "calls": 0,
+   "usd_per_1k": 0.0,
+   "sec_per_item_seq": 7e-05,
+   "wall_s_total": 0.014,
+   "parallel": 1,
+   "in_tok_per_call": NaN,
+   "out_tok_per_call": NaN,
+   "reasoning_tok_per_call": NaN,
+   "train_s": 1.49,
+   "sec_per_1k_items": 0.07
+  }
+ ],
+ "per_class": {
+  "smollm2_360m_4shot": {
+   "Business": 0.1,
+   "Sci/Tech": 0.96,
+   "Sports": 0.04,
+   "World": 0.06
+  },
+  "smollm2_360m_probe_1000": {
+   "Business": 0.88,
+   "Sci/Tech": 0.86,
+   "Sports": 0.92,
+   "World": 0.9
+  },
+  "tfidf_lr_4000": {
+   "Business": 0.8,
+   "Sci/Tech": 0.84,
+   "Sports": 0.96,
+   "World": 0.9
+  },
+  "grok_single": {
+   "Business": 0.9,
+   "Sci/Tech": 0.82,
+   "Sports": 1.0,
+   "World": 0.9
+  },
+  "grok_batch": {
+   "Business": 0.86,
+   "Sci/Tech": 0.82,
+   "Sports": 0.96,
+   "World": 0.92
+  }
+ }
+}
